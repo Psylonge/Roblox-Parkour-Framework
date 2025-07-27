@@ -1,2 +1,6 @@
 # Roblox-Parkour-Framework
-a parkour framework meant to be a modular and organized, which can help devs when creating a movement based roblox game
+(Version 1)
+
+a parkour framework created to be a organized & modular, which can help devs when creating a movement based roblox game.
+
+(future updates will be posted to include more types of movement and procedural animations)
