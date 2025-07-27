@@ -1,4 +1,4 @@
-# Roblox-Parkour-Framework 💨👟
+# Roblox-Parkour-Framework 👟
 _(Version 1)_
 
 a parkour framework created to be a organized & modular, which can assist devs creating a movement based roblox game.
