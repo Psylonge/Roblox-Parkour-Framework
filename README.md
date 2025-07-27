@@ -9,14 +9,14 @@ a parkour framework created to be a organized & modular, which can assist devs c
 ## Structure
 <pre>
 📃Parkour Framework
-├── **Workspace**
+├── Workspace
 │   ├── Playground (Model)
 │   └── Baseplate (Part)
-├── **Replicated Storage**
+├── Replicated Storage
 │   ├── RayCastModule (ModuleScript)
 │   └── StateManager (ModuleScript) 
 |       └── Visualizer (ModuleScript)
-├── **StarterPlayer**
+├── StarterPlayer
 |   └── Controller
 |       ├── Sprint
 |       ├── Crouch
