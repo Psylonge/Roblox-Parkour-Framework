@@ -1,10 +1,16 @@
 # Roblox Parkour Framework 👟
-_(Version 1)_
+_(Version 2)_
 
 an open source parkour framework created to be a organized & modular, which can assist devs creating a movement based roblox game.
-(future updates will be posted to include more types of movement and procedural animations)
+(future updates will be posted to include more types of movement and procedural animations) and  (Expect Bugs now for first few versions)
 
-📝 (Note: No animations currently implemented for the moment)
+📝 (Note: No animations currently implemented for the moment) 
+
+<pre>
+  Update 1
+  - Improved Most Modules
+  - Added Vaulting, Ledge Grabbing
+</pre>
 
 ## Structure
 <pre>
@@ -20,5 +26,7 @@ an open source parkour framework created to be a organized & modular, which can 
 |   └── Controller
 |       ├── Sprint
 |       ├── Crouch
-|       └── Wallrun
+|       ├── Wallrun
+|       ├── Vault
+|       └── Ledge
 </pre>
