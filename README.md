@@ -7,9 +7,7 @@ an open source parkour kit created to be a organized & modular, which can assist
 📝 (Note: No animations currently implemented for the moment) 
 
 <pre>
-  Update 1
-  - Improved Most Modules
-  - Added Vaulting, Ledge Grabbing
+Future updates are coming
 </pre>
 
 ## Structure
