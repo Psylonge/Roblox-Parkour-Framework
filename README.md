@@ -1,6 +1,6 @@
-# Roblox Parkour Kit 👟
+# Roblox Parkour Framework 👟
 
-an open source parkour kit created to be a organized & modular, which can assist devs creating a movement based roblox game.
+an open source parkour Framework created to be a organized & modular, which can assist devs creating a movement based roblox game.
 (future updates will be posted to include more types of movement and procedural animations) and  (Expect Bugs now for first few versions)
 
 📝 (Note: No animations currently implemented for the moment) 
@@ -9,9 +9,25 @@ an open source parkour kit created to be a organized & modular, which can assist
 Future updates are coming
 </pre>
 
-## Structure
+## New Structure
 <pre>
-📃Parkour Kit
+📃Parkour Framework
+├── Workspace
+│   ├── Platform (Part)
+│   └── Baseplate (Part)
+├── Replicated First
+│   └──  Place Settings (Script)
+├── StarterPlayerScripts
+|   └── Controller
+|       ├── Context
+|       ├── Utility
+|       └── Manager
+|           └── Sprint
+</pre>
+
+## Old Structure
+<pre>
+📃Parkour Framework
 ├── Workspace
 │   ├── Playground (Model)
 │   └── Baseplate (Part)
